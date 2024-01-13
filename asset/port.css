@@ -316,6 +316,10 @@
         max-height: 600px;
         border-radius: 20px;
       }
+      
+      .todo {
+        padding-left: 15px;
+      }
      
 
     @media only screen and (max-width: 1200px) {
