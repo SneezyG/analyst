@@ -282,6 +282,10 @@
         font-size: 15px;
       }
       
+      .project-body > b {
+        font-size: 15px;
+      }
+      
       .project-head > img {
         height: 350px;
       }
@@ -319,6 +323,11 @@
       
       .todo {
         padding-left: 15px;
+      }
+      
+      .todo > li {
+        font-size: 15px;
+        margin-bottom: 7px;
       }
      
 
